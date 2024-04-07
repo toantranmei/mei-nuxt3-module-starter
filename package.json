@@ -1,7 +1,7 @@
 {
   "name": "@toantranmei/mei-nuxt3-module-starter",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Minimal Nuxt 3 Module Starter.",
   "author": "Toan Tran <Mei>",
   "license": "MIT",
