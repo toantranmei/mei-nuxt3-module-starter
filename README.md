@@ -14,11 +14,11 @@ Find and replace all on all files (CMD+SHIFT+F):
 [![License][license-src]][license-href]
 [![Nuxt][nuxt-src]][nuxt-href]
 
-About A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS for doing amazing things.
+About Minimal Nuxt 3 Module Starter, powered by Nuxt 3 for doing amazing things.
 
 - [✨ &nbsp;Release Notes](/CHANGELOG.md)
-<!-- - [🏀 Online playground](https://stackblitz.com/github/your-org/@toantranmei/mei-nuxt3-module-starter?file=playground%2Fapp.vue) -->
-<!-- - [📖 &nbsp;Documentation](https://example.com) -->
+<!-- - [🏀 Online playground](https://stackblitz.com/github/toantranmei/mei-nuxt3-module-starter?file=playground%2Fapp.vue) -->
+<!-- - [📖 &nbsp;Documentation](https://mei-nuxt3-module-starter.toantranmei.com) -->
 
 ## Features
 
