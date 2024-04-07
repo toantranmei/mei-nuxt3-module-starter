@@ -17,7 +17,9 @@
     "mei",
     "nuxt3",
     "mei-nuxt3-module-starter",
-    "nuxt-ui"
+    "nuxt-template",
+    "template",
+    "boilerplate"
   ],
   "exports": {
     ".": {
