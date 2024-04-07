@@ -4,7 +4,7 @@ Get your module up and running quickly.
 Find and replace all on all files (CMD+SHIFT+F):
 - Name: Mei Nuxt3 UI Module
 - Package name: @toantranmei/mei-nuxt3-module-starter
-- Description: Minimal Auth module for Nuxt 3
+- Description: Minimal Nuxt 3 Module Starter
 -->
 
 # Mei Nuxt3 UI Module

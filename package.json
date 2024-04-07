@@ -2,7 +2,7 @@
   "name": "@toantranmei/mei-nuxt3-module-starter",
   "type": "module",
   "version": "0.0.1",
-  "description": "Minimal Auth module for Nuxt 3.",
+  "description": "Minimal Nuxt 3 Module Starter.",
   "author": "Toan Tran <Mei>",
   "license": "MIT",
   "homepage": "https://github.com/toantranmei/mei-nuxt3-module-starter#readme",
